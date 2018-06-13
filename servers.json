@@ -1,0 +1,26 @@
+[
+    {
+        "loc": "usa",
+        "city": "Washington",
+        "index": 1,
+        "addr": "s1.abc.com",
+        "port": 80,
+        "user": "user1"
+    },
+    {
+        "loc": "usa",
+        "city": "Washington",
+        "index": 2,
+        "addr": "s1.abc.com",
+        "port": 80,
+        "user": "user1"
+    },
+    {
+        "loc": "jp",
+        "city": "Tokyo",
+        "index": 1,
+        "addr": "s1.abc.com",
+        "port": 80,
+        "user": "user1"
+    }
+]
