@@ -9,9 +9,9 @@
     },
     {
         "loc": "usa",
-        "city": "Washington",
-        "index": 2,
-        "addr": "s1.abc.com",
+        "city": "New York",
+        "index": 1,
+        "addr": "usa1.martianvpn.com",
         "port": 80,
         "user": "user1"
     },
