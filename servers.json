@@ -16,10 +16,10 @@
         "user": "user1"
     },
     {
-        "loc": "jp",
-        "city": "Tokyo",
+        "loc": "usa",
+        "city": "New York",
         "index": 1,
-        "addr": "s1.abc.com",
+        "addr": "usa1.martianvpn.com",
         "port": 80,
         "user": "user1"
     }
